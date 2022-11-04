@@ -1,6 +1,7 @@
 # Applying Bootstrap Aggregated Random Forest
 
-Bootstrap Aggregation or Bagging is one of the Ensemble techniques in which overall variance of a model is reduced by combining several weak learners (often with low bias and high variance). 
+Bootstrap Aggregation or Bagging is one of the Ensemble techniques in which overall variance of a model is reduced by combining several weak learners (often with low bias and high variance).  
+Random Forest is one of the popular algorithm which operates on the concept of bagging. A number of decision trees are trained on sub-sample datasets which are then combined together to get the best predictions.   
 
 To learn more about Bagging and other Ensembles go through the following links:  
 https://www.ibm.com/cloud/learn/bagging  
